@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align="center">Hi, I'm Subhradeep, Currently a Software Engineer and Always Learning New Technologies</h1>
 <!--
 **sraynitjsr/sraynitjsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
